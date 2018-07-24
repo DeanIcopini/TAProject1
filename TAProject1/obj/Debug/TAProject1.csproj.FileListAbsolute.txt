@@ -1,0 +1,7 @@
+C:\Users\Dean\Code_Vault\C_Sharp\TAProject1\TAProject1\bin\Debug\TAProject1.exe.config
+C:\Users\Dean\Code_Vault\C_Sharp\TAProject1\TAProject1\bin\Debug\TAProject1.exe
+C:\Users\Dean\Code_Vault\C_Sharp\TAProject1\TAProject1\bin\Debug\TAProject1.pdb
+C:\Users\Dean\Code_Vault\C_Sharp\TAProject1\TAProject1\obj\Debug\TAProject1.csprojAssemblyReference.cache
+C:\Users\Dean\Code_Vault\C_Sharp\TAProject1\TAProject1\obj\Debug\TAProject1.csproj.CoreCompileInputs.cache
+C:\Users\Dean\Code_Vault\C_Sharp\TAProject1\TAProject1\obj\Debug\TAProject1.exe
+C:\Users\Dean\Code_Vault\C_Sharp\TAProject1\TAProject1\obj\Debug\TAProject1.pdb
